@@ -1,2 +1,2 @@
-# Learning
-My small apps from learning
+# Practice apps
+Java apps for beginners
